@@ -1,0 +1,6 @@
+queues:
+  - default
+  - async_log
+  - mailers
+  - active_storage_analysis
+
